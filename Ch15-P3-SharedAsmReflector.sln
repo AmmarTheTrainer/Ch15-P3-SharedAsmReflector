@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch15-P3-SharedAsmReflector", "Ch15-P3-SharedAsmReflector\Ch15-P3-SharedAsmReflector.csproj", "{FFC93275-6A17-43AA-A5F1-21D9C53A9695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC93275-6A17-43AA-A5F1-21D9C53A9695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC93275-6A17-43AA-A5F1-21D9C53A9695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC93275-6A17-43AA-A5F1-21D9C53A9695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC93275-6A17-43AA-A5F1-21D9C53A9695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A12CA8-BEE6-4D61-B31C-DFE8BDFF4401}
+	EndGlobalSection
+EndGlobal
